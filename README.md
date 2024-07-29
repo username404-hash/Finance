@@ -1,4 +1,4 @@
- A comprehensive financial model of Asian Paints that provides an in-depth analysis of the company's value and performance.
+# A comprehensive financial model of Asian Paints that provides an in-depth analysis of the company's value and performance.
 This model includes:
 
 • Historical Financial Statements
